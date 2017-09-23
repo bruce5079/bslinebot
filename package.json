@@ -1,11 +1,23 @@
 {
   "name": "linechat",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# bslinebot\"",
   "main": "index.js",
   "scripts": {
     "start": "node ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruce5079/bslinebot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bruce5079/bslinebot/issues"
+  },
+  "homepage": "https://github.com/bruce5079/bslinebot#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "linebot": "^1.3.0"
+  }
 }
